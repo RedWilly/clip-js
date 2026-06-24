@@ -20,8 +20,6 @@ const config: Config = {
         'dark-text-primary': '#ffffff',
         'text-secondary': '#e2e2e2',
         'dark-text-secondary': '#e2e2e2',
-        'surface-secondary': '#2a2a2a',
-        'dark-surface-secondary': '#2a2a2a',
       },
       border: {
         DEFAULT: "rgba(128, 128, 128, 0.5)",
